@@ -31,7 +31,7 @@ public class Grafo {
     }
 
     public void agregarCiudad(String ciudad) {
-        
+
         if (!indices.containsKey(ciudad)) {
             indices.put(ciudad, cantidad);
             ciudades.add(ciudad);
@@ -75,4 +75,26 @@ public class Grafo {
             System.out.println();
         }
     }
+    public int[][] floydWarshall() {
+    int[][] distancias = new int[cantidad][cantidad];
+    for (int i = 0; i < cantidad; i++) {
+        for (int j = 0; j < cantidad; j++) {
+            distancias[i][j] = matriz[i][j];
+        }
+    }
+
+    for (int k = 0; k < cantidad; k++) {
+        for (int i = 0; i < cantidad; i++) {
+            for (int j = 0; j < cantidad; j++) {
+                if (distancias[i][k] != INF && distancias[k][j] != INF) {
+                    if (distancias[i][k] + distancias[k][j] < distancias[i][j]) {
+                        distancias[i][j] = distancias[i][k] + distancias[k][j];
+                    }
+                }
+            }
+        }
+    }
+
+    return distancias;
+}
 }

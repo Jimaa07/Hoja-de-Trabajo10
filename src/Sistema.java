@@ -13,7 +13,8 @@ public class Sistema {
     public void iniciar() {
         cargarArchivo();
         System.out.println("GRAFO CARGADO:\n");
-        grafo.mostrarMatriz();
+        int[][] distancias = grafo.floydWarshall();
+        mostrarDistancias(distancias);
     }
 
     private void cargarArchivo() {
@@ -36,4 +37,18 @@ public class Sistema {
             System.out.println(e.getMessage());
         }
     }
+    
+    private void mostrarDistancias(int[][] distancias) {
+    System.out.println("MATRIZ DE DISTANCIAS MINIMAS:\n");
+    for (int i = 0; i < distancias.length; i++) {
+        for (int j = 0; j < distancias.length; j++) {
+            if (distancias[i][j] == 999999) {
+                System.out.print("INF\t");
+            } else {
+                System.out.print(distancias[i][j] + "\t");
+            }
+        }
+        System.out.println();
+    }
+}
 }
