@@ -1,0 +1,718 @@
+2026.05.19 15:07:20 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10' for client Visual Studio Code 1.120.0.
+2026.05.19 15:07:20 INFO  Memory monitor started
+2026.05.19 15:07:43 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.19 15:07:45 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:07:47 WARN  no build tool detected in workspace 'C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.05.19 15:07:47 WARN  Build server is not auto-connectable.
+2026.05.19 15:07:48 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:07:50 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Main.java. Output:
+
+2026.05.19 15:07:50 INFO  time: code lens generation in 2.94s
+2026.05.19 15:07:53 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:08:28 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:08:40 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:08:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:08:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+may 19, 2026 3:08:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.05.19 15:08:44 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:08:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:08:44 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Main.java. Output:
+
+2026.05.19 15:15:17 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java
+2026.05.19 15:15:17 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Grafo.java. Output:
+
+2026.05.19 15:15:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:15:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:15:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:15:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:15:18 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java
+2026.05.19 15:15:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:15:18 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Grafo.java. Output:
+
+2026.05.19 15:16:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:16:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:16:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:54 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:16:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:57 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Main.java. Output:
+
+2026.05.19 15:16:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:16:57 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:16:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:00 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:04 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Main.java. Output:
+
+2026.05.19 15:17:05 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:17:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:07 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:07 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Main.java. Output:
+
+2026.05.19 15:17:08 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:08 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:17:08 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:14 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Main.java. Output:
+
+2026.05.19 15:17:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:14 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:17:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:17:33 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:33 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java
+2026.05.19 15:17:33 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:33 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:33 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:37 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:37 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:39 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java
+2026.05.19 15:17:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:39 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Grafo.java. Output:
+
+2026.05.19 15:17:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:17:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:18:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:26 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:18:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:18:26 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java
+2026.05.19 15:18:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:18:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:18:28 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:28 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:18:28 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:28 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+may 19, 2026 3:18:30 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.19 15:18:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+may 19, 2026 3:18:30 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.19 15:18:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+may 19, 2026 3:18:31 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.19 15:18:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:18:31 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:48 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:48 INFO  no build target found for c:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:33:48 INFO  no build target found for c:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:33:48 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:33:48 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:48 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:33:48 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:48 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:48 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/Main.java. Output:
+
+2026.05.19 15:33:49 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java
+2026.05.19 15:33:48 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:49 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:33:49 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:52 INFO  no build target found for c:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:52 INFO  no build target found for c:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:52 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java
+2026.05.19 15:33:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:52 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Main.java. Output:
+
+2026.05.19 15:33:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:53 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:53 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java
+2026.05.19 15:33:53 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:33:53 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:34:02 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:34:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:34:05 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java
+2026.05.19 15:34:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:34:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:34:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:34:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:34:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:34:05 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:34:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:34:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:34:06 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java
+2026.05.19 15:34:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:34:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:31 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:31 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java
+2026.05.19 15:39:31 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:31 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:31 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:33 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:33 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:34 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:34 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:35 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:35 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:37 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:37 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:40 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:40 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:40 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:40 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:41 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Main.java. Output:
+
+2026.05.19 15:39:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:41 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Main.java. Output:
+
+2026.05.19 15:39:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:42 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Main.java. Output:
+
+2026.05.19 15:39:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:42 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Main.java. Output:
+
+2026.05.19 15:39:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:43 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Main.java. Output:
+
+2026.05.19 15:39:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:44 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Main.java. Output:
+
+2026.05.19 15:39:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:45 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java
+2026.05.19 15:39:45 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:39:45 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Main.java. Using fallback presentation compiler.
+2026.05.19 15:40:03 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:40:03 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:40:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:40:03 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:40:03 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:01 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:01 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:01 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:04 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:49:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:04 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:49:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:06 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:08 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:09 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:49:10 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:49:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:14 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:49:15 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:49:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:20 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:20 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:21 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:21 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:49:21 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:31 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:31 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:41 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:42 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:50:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:42 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:42 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:43 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:50:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:43 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:44 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:50:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:45 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:45 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:44 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:45 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:45 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:46 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:50:46 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:46 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:48 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:51 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:51 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:52 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:51 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:52 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:50:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:53 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:53 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:53 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:53 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:54 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:50:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:54 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:55 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:50:55 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:55 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:56 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:57 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:50:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:58 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:59 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:50:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:00 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:50:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:50:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:01 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:01 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:01 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:13 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:14 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:14 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:15 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:15 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:15 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:15 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:16 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:16 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:20 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:20 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:22 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:22 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:23 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:24 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:24 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:25 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:24 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:25 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:25 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:26 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:30 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:30 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:31 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:31 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:32 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:32 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:32 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:33 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:33 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:33 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:33 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:33 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:34 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:35 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:35 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:35 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:35 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:35 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:36 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:36 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:37 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:37 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:36 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:37 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:37 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:38 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:38 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:39 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:39 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:39 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:39 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:40 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:40 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:39 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:40 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:40 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:43 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:43 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:44 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:44 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:48 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:48 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:48 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:48 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:49 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:49 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:49 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:49 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:49 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:50 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:49 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:49 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:50 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:51 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:51 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:52 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:52 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:53 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:53 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:53 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:54 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:57 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:56 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:57 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:58 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:57 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:58 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:59 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:51:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:58 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:51:59 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:51:59 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:01 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:01 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:02 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:02 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:02 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:02 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:02 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:03 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:03 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:03 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:03 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:04 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:04 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:04 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:05 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:06 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:06 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:07 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:07 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:08 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:08 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:08 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:08 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:08 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:09 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:10 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:10 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:10 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:10 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:10 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:10 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:11 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:12 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:13 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:13 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:15 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:15 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:15 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:15 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:15 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:16 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:17 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:16 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:17 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:18 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:18 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:18 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:20 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:20 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:21 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:20 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:21 INFO  Created report: Optional[file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java]
+2026.05.19 15:52:21 INFO  QDox parse error in file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java (full report at: "C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\.metals\.reports\metals-full\2026-05-19\r_qdox-error_15-52-21-300.md")
+2026.05.19 15:52:21 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:21 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:21 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:21 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:22 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:24 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:52:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:23 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:24 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:52:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:25 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:52:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:15 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:17 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:18 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:19 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:21 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:21 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:21 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:22 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:24 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:25 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:26 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:27 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:27 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:29 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:37 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:53:41 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:08 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:11 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:54:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:12 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:54:11 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:13 WARN  Running javac-semanticdb failed for file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Grafo.java. Output:
+
+2026.05.19 15:54:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:12 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:13 WARN  no build target for: C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java
+2026.05.19 15:54:13 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+2026.05.19 15:54:14 INFO  no build target found for C:\Users\Jair Morales\OneDrive - UVG\Escritorio\Progra2\Hoja-de-Trabajo10\src\Grafo.java. Using fallback presentation compiler.
+may 19, 2026 3:54:22 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
