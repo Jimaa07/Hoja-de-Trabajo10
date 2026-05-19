@@ -25,9 +25,7 @@ public class Sistema {
                 String origen = sc.next();
                 String destino = sc.next();
                 int distancia = sc.nextInt();
-                grafo.agregarArco(origen,
-                                  destino,
-                                  distancia);
+                grafo.agregarArco(origen, destino,distancia);
             }
 
             sc.close();
