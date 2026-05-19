@@ -31,7 +31,7 @@ public class Grafo {
     }
 
     public void agregarCiudad(String ciudad) {
-
+        
         if (!indices.containsKey(ciudad)) {
             indices.put(ciudad, cantidad);
             ciudades.add(ciudad);
