@@ -1,3 +1,14 @@
+error id: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Sistema.java:_empty_/Grafo#floydWarshall#
+file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Sistema.java
+empty definition using pc, found symbol in pc: _empty_/Grafo#floydWarshall#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 278
+uri: file:///C:/Users/Jair%20Morales/OneDrive%20-%20UVG/Escritorio/Progra2/Hoja-de-Trabajo10/src/Sistema.java
+text:
+```scala
 package src;
 
 import java.io.File;
@@ -9,18 +20,20 @@ public class Sistema {
     public Sistema() {
         grafo = new Grafo(30);
     }
-public void iniciar(){
+
+    public void iniciar() {
 
     cargarArchivo();
 
-    int[][] distancias = grafo.floydWarshall();
+    int[][] distancias = grafo.floydWar@@shall();
 
     mostrarDistancias(distancias);
 
     System.out.println("\nCENTRO DEL GRAFO:");
-    System.out.println(grafo.centroGrafo());
-    }
 
+    System.out.println(grafo.centroGrafo());
+};
+    }
 
     private void cargarArchivo() {
         try {
@@ -55,3 +68,9 @@ public void iniciar(){
     }
 }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/Grafo#floydWarshall#
