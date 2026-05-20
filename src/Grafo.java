@@ -7,6 +7,7 @@ public class Grafo {
     private final int INF = 999999;
 
     private int[][] matriz;
+    private int[][] siguiente;
     private Map<String, Integer> indices;
     private List<String> ciudades;
     private int cantidad;
@@ -14,6 +15,7 @@ public class Grafo {
     public Grafo(int maxCiudades){
 
         matriz = new int[maxCiudades][maxCiudades];
+        siguiente = new int[maxCiudades][maxCiudades];
         indices = new HashMap<>();
         ciudades = new ArrayList<>();
         cantidad = 0;
@@ -24,8 +26,10 @@ public class Grafo {
 
                 if(i == j){
                     matriz[i][j] = 0;
+                    siguiente[i][j] = j;
                 }else{
                     matriz[i][j] = INF;
+                    siguiente[i][j] = -1;
                 }
             }
         }
@@ -50,6 +54,7 @@ public class Grafo {
         int j = indices.get(destino);
 
         matriz[i][j] = distancia;
+        siguiente[i][j] = j;
     }
 
     public void eliminarArco(String origen, String destino){
@@ -110,6 +115,7 @@ public class Grafo {
                             distancias[i][j] =
                                     distancias[i][k]
                                     + distancias[k][j];
+                                    siguiente[i][j] = siguiente[i][k];
                         }
                     }
                 }
@@ -141,5 +147,33 @@ public class Grafo {
             }
         }
         return ciudades.get(indiceCentro);
+    }
+
+    public String obtenerRuta(String origen, String destino){
+
+        if(!indices.containsKey(origen) ||
+           !indices.containsKey(destino)){
+
+            return "Ciudad no existente";
+        }
+
+        int i = indices.get(origen);
+
+        int j = indices.get(destino);
+
+        if(siguiente[i][j] == -1){
+            return "No existe ruta";
+        }
+
+        String ruta = origen;
+
+        while(i != j){
+
+            i = siguiente[i][j];
+
+            ruta += " -> " + ciudades.get(i);
+        }
+
+        return ruta;
     }
 }
